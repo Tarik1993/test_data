@@ -1,2 +1,2 @@
 # test_data
-test data for class
+this folder is meant as a demonstration for the Data Visualization class.
